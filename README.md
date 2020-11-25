@@ -1,5 +1,5 @@
 # Nepali__Names
-A list of 10,000+ nepali names
+A list of 10k+ nepali names
 
 -sorted
 -no duplicates
